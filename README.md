@@ -1,6 +1,6 @@
 # Tech Practice Platform
 
-A platform where verified tech professionals can connect for random short calls/texts to practice communication and interview-style conversations.
+A simple test platform where tech professionals can connect for random short calls/texts to practice communication and interview-style conversations.
 
 ## Features
 
